@@ -1,0 +1,15 @@
+http://torstatus.blutmagie.de/ip_list_exit.php/Tor_ip_list_EXIT.csv
+https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=8.8.8.8
+http://rules.emergingthreats.net/blockrules/compromised-ips.txt
+http://reputation.alienvault.com/reputation.data
+http://www.blocklist.de/lists/bruteforcelogin.txt
+http://dragonresearchgroup.org/insight/sshpwauth.txt
+http://dragonresearchgroup.org/insight/vncprobe.txt
+http://www.openbl.org/lists/date_all.txt
+http://www.nothink.org/blacklist/blacklist_malware_http.txt
+http://www.nothink.org/blacklist/blacklist_ssh_all.txt
+http://rules.emergingthreats.net/blockrules/compromised-ips.txt
+http://antispam.imp.ch/spamlist
+http://www.dshield.org/ipsascii.html?limit=10000
+http://malc0de.com/bl/IP_Blacklist.txt
+http://hosts-file.net/rss.asp
